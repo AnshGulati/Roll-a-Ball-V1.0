@@ -3,7 +3,7 @@
 
 <b>Watch the video by clicking on the below video link </b>
 
-<a target="_blank" href="https://drive.google.com/file/d/18viktnhziftygBShd0JEng7RDj-Eam7i/view?usp=sharing">Truck-Kun Video Link</a>
+<a target="_blank" href="https://drive.google.com/file/d/18viktnhziftygBShd0JEng7RDj-Eam7i/view?usp=sharing">Roll a Ball Video Link</a>
 
 <b>Video showing Gyroscope Implementation</b>
 
