@@ -7,4 +7,4 @@
 
 <b>Video showing Gyroscope Implementation</b>
 
-<a target="_blank" href="https://drive.google.com/file/d/1ZO8EU0BOzRAAICa9siiI1nFir0zLAHgA/view?usp=drive_link">Truck-Kun Video Link</a>
+<a target="_blank" href="https://drive.google.com/file/d/1ZO8EU0BOzRAAICa9siiI1nFir0zLAHgA/view?usp=drive_link">Gyroscope Example Video Link</a>
